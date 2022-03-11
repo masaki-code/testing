@@ -1,3 +1,10 @@
 cypress/integration/1-getting-started/
 cypress/integration/2-advanced-examples/
-cypress/fixtures/example.json
+
+cypress/fixtures/
+cypress/downloads/
+cypress/plugins/
+cypress/support/
+
+server/*.js
+server/**/*.js
